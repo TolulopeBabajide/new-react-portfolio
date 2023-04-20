@@ -32,17 +32,10 @@ const Contact = () => {
           </article>
 
         <article className="contact__option">
-          <RiMessengerLine className='contact__option-icon'/>
-          <h4>Messanger</h4>
-          <h5>Omogoye Juwon</h5>
-          <a href="https://m.me/omogoye.juwon.1/" target='_blank'>Send a message</a>
-        </article>
-
-        <article className="contact__option">
           <BsWhatsapp className='contact__option-icon'/>
           <h4>Whatsapp</h4>
-          <h5>08167391300</h5>
-          <a href="https://api.whatsapp.com/send?phone+2348167391300" target='_blank'>Send a message</a>
+          <h5>+2348166444115</h5>
+          <a href="https://api.whatsapp.com/send?phone+2348166444115" target='_blank'>Send a message</a>
         </article>
         
       </div>
